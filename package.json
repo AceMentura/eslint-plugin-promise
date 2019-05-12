@@ -22,7 +22,7 @@
     "eslint-config-prettier": "^3.0.1",
     "eslint-plugin-eslint-plugin": "^1.4.0",
     "eslint-plugin-jest": "^21.21.0",
-    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-node": "^8.0.1",
     "eslint-plugin-prettier": "^2.6.2",
     "husky": "^0.14.3",
     "jest": "^23.5.0",
